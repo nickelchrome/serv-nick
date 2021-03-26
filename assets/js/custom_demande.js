@@ -8,6 +8,7 @@ document.getElementById("form_demande").addEventListener("submit", function (e) 
     let tel = $("#dtel").val();
     let mont = $("#dmont").val();
     let dr = $("#ddr").val();
+    
     let info = $("#dinfos").val();
 
     Email.send({
